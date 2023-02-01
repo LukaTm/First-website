@@ -28,8 +28,6 @@
 }
 
 
-
-
 .back {
     background-color: #e5e7eb;
 }
@@ -58,7 +56,6 @@ div h4 {
 }
 
 
-
 body {
     background-color: white;
     margin: 0;
@@ -70,7 +67,6 @@ body {
     justify-content: center;
     align-content: center;
 }
-
 
 
 .intro {
@@ -102,7 +98,6 @@ body {
     border: 5px solid rgb(222, 198, 245);
     border-radius: 10px;
 }
-
 
 .animal {
     width: 150px;
@@ -166,10 +161,6 @@ align-items: center;
 
 
 }
-
-
-
-
 
 .sign {
     background-color: rgb(109, 109, 219);
